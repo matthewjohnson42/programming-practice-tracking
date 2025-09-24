@@ -14,3 +14,4 @@
 | 20250918       | (Medium)   | 8. String to Integer (atoi)                          |
 | 20250921       | (Easy)     | 21. Merge Two Sorted Lists                           |
 | 20250922       | (Easy)     | 26. Remove Duplicates from Sorted Array              |
+| 20250923       | (Medium)   | 11. Container With Most Water                        |
