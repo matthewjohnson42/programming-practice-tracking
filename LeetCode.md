@@ -15,3 +15,4 @@
 | 20250921       | (Easy)     | 21. Merge Two Sorted Lists                           |
 | 20250922       | (Easy)     | 26. Remove Duplicates from Sorted Array              |
 | 20250923       | (Medium)   | 11. Container With Most Water                        |
+| 20250924       | (Medium)   | 12. Integer to Roman                                 |
