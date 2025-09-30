@@ -18,3 +18,4 @@
 | 20250924       | (Medium)   | 12. Integer to Roman                                 |
 | 20250928       | (Easy)     | 27. Remove Element                                   |
 | 20250929       | (Easy)     | 28. First Occurence of a Substring                   |
+| 20250929       | (Medium)   | 15. 3Sum                                             |
