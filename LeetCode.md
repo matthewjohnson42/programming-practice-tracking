@@ -20,3 +20,4 @@
 | 20250929       | (Easy)     | 28. First Occurence of a Substring                   |
 | 20250929       | (Medium)   | 15. 3Sum                                             |
 | 20250930       | (Easy)     | 35. Search Insert Position                           |
+| 20251002       | (Medium)   | 5. Longest Palindrome                                |
