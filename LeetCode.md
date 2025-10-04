@@ -21,3 +21,4 @@
 | 20250929       | (Medium)   | 15. 3Sum                                             |
 | 20250930       | (Easy)     | 35. Search Insert Position                           |
 | 20251002       | (Medium)   | 5. Longest Palindrome                                |
+| 20251003       | (Easy)     | 58. Length of Last Word                              |
