@@ -23,4 +23,5 @@
 | 20251002       | (Medium)   | 5. Longest Palindrome                                |
 | 20251003       | (Easy)     | 58. Length of Last Word                              |
 | 20251004       | (Easy)     | 66. Plus One                                         |
+| 20251005       | (Medium)   | 16. 3Sum Closest                                     |
 
