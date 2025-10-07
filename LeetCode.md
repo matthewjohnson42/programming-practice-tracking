@@ -24,4 +24,5 @@
 | 20251003       | (Easy)     | 58. Length of Last Word                              |
 | 20251004       | (Easy)     | 66. Plus One                                         |
 | 20251005       | (Medium)   | 16. 3Sum Closest                                     |
+| 20251006       | (Easy)     | 67. Add Binary                                       |
 
