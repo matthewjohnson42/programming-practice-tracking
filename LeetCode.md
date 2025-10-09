@@ -26,4 +26,5 @@
 | 20251005       | (Medium)   | 16. 3Sum Closest                                     |
 | 20251006       | (Easy)     | 67. Add Binary                                       |
 | 20251007       | (Medium)   | 17. Letter Combinations of a Phone Number            |
+| 20251008       | (Medium)   | 18. 4Sum                                             |
 
