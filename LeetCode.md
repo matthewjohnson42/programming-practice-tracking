@@ -28,4 +28,5 @@
 | 20251007       | (Medium)   | 17. Letter Combinations of a Phone Number            |
 | 20251008       | (Medium)   | 18. 4Sum                                             |
 | 20251009       | (Medium)   | 19. Remove Nth Node From End of List                 |
+| 20251010       | (Medium)   | 22. Generate Parenthesis                             |
 
