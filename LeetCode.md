@@ -30,4 +30,5 @@
 | 20251009       | (Medium)   | 19. Remove Nth Node From End of List                 |
 | 20251010       | (Medium)   | 22. Generate Parenthesis                             |
 | 20251011       | (Hard)     | 23. Merge K Sorted Lists                             |
+| 20251012       | (Hard)     | 25. Reverse Nodes in K Group                         |
 
