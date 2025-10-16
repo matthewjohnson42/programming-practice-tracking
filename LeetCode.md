@@ -33,4 +33,5 @@
 | 20251012       | (Hard)     | 25. Reverse Nodes in K Group                         |
 | 20251013       | (Easy)     | 69. Sqrt(x)                                          |
 | 20251014       | (Medium)   | 24. Swap Nodes in Pairs                              |
+| 20251015       | (Medium)   | 29. Divide Two Integers                              |
 
