@@ -2,5 +2,5 @@
 
 | Date Worked    | Difficulty | Problem Title                                        | Date Completed |
 | ---------------|------------|------------------------------------------------------|----------------|
-| 20251018       | (Medium)   | 31. Next Permutation                                 | 20251024       |
+| 20251018       | (Medium)   | 31. Next Permutation                                 | 20251023       |
 
