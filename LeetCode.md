@@ -38,4 +38,6 @@
 | 20251017       | (Easy)     | 83. Remove Duplicates from Sorted List               |
 | 20251023       | (Medium)   | 31. Next Permutation                                 |
 | 20251026       | (Medium)   | 33. Search in Rotated Sorted Array                   |
+| 20251028       | (Easy)     | 88. Merge Sorted Array                               |
+
 
