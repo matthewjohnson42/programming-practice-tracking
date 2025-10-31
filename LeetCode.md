@@ -39,5 +39,5 @@
 | 20251023       | (Medium)   | 31. Next Permutation                                 |
 | 20251026       | (Medium)   | 33. Search in Rotated Sorted Array                   |
 | 20251028       | (Easy)     | 88. Merge Sorted Array                               |
-
+| 20251030       | (Easy)     | 94. Binary Tree Inorder Traversal                    |
 
