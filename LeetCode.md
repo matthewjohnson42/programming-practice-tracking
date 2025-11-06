@@ -42,4 +42,5 @@
 | 20251030       | (Easy)     | 94. Binary Tree Inorder Traversal                    |
 | 20251102       | (Medium)   | 34. Find First and Last Position of Element in Array |
 | 20251104       | (Medium)   | 36. Valid Sudoku                                     |
+| 20251105       | (Medium)   | 38. Count and Say                                    |
 
