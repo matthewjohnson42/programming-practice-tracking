@@ -5,4 +5,5 @@
 | 20251018       | (Medium)   | 31. Next Permutation                                 | 20251023                                             |
 | 20251025       | (Hard)     | 10. Regular Expression Matching                      | NULL                                                 |
 | 20251108       | (Medium)   | 39. Combination Sum                                  | NULL                                                 |
+| 20251109       | (Hard)     | 30. Substring with Concatenation of All Words        | NULL                                                 |
 
