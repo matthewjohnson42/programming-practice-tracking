@@ -43,4 +43,5 @@
 | 20251102       | (Medium)   | 34. Find First and Last Position of Element in Array |
 | 20251104       | (Medium)   | 36. Valid Sudoku                                     |
 | 20251105       | (Medium)   | 38. Count and Say                                    |
+| 20251113       | (Easy)     | 100. Same Tree                                       |
 
