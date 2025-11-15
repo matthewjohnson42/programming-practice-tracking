@@ -44,4 +44,5 @@
 | 20251104       | (Medium)   | 36. Valid Sudoku                                     |
 | 20251105       | (Medium)   | 38. Count and Say                                    |
 | 20251113       | (Easy)     | 100. Same Tree                                       |
+| 20251114       | (Easy)     | 101. Symmetric Tree                                  |
 
