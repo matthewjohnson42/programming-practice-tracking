@@ -45,4 +45,5 @@
 | 20251105       | (Medium)   | 38. Count and Say                                    |
 | 20251113       | (Easy)     | 100. Same Tree                                       |
 | 20251114       | (Easy)     | 101. Symmetric Tree                                  |
+| 20251115       | (Medium)   | 45. Jump Game II                                     |
 
