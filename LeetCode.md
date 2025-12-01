@@ -50,4 +50,5 @@
 | 20251124       | (Easy)     | 104. Maximum Depth of Binary Tree                    |
 | 20251125       | (Medium)   | 47. Permutations II                                  |
 | 20251127       | (Easy)     | 108. Convert Sorted Array to Binary Search Tree      |
+| 20251130       | (Medium)   | 48. Rotate Image                                     |
 
