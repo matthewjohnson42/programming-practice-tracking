@@ -51,4 +51,5 @@
 | 20251125       | (Medium)   | 47. Permutations II                                  |
 | 20251127       | (Easy)     | 108. Convert Sorted Array to Binary Search Tree      |
 | 20251130       | (Medium)   | 48. Rotate Image                                     |
+| 20251202       | (Medium)   | 49. Group Anagrams                                   |
 
