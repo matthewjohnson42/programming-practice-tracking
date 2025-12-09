@@ -52,4 +52,5 @@
 | 20251127       | (Easy)     | 108. Convert Sorted Array to Binary Search Tree      |
 | 20251130       | (Medium)   | 48. Rotate Image                                     |
 | 20251202       | (Medium)   | 49. Group Anagrams                                   |
+| 20251208       | (Easy)     | 110. Balanced Binary Tree                            |
 
