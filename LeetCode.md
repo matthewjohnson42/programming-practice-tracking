@@ -1,5 +1,5 @@
 | Date Completed | Difficulty | Problem Title                                        |
-| ---------------|------------|------------------------------------------------------|
+|----------------|------------|------------------------------------------------------|
 | 20250227       | (Easy)     | 1. Two Sum                                           |
 | 20250301       | (Medium)   | 2. Add Two Numbers                                   |
 | 20250302       | (Medium)   | 3. Longest Substring Without Repeating Characters    |
@@ -53,4 +53,5 @@
 | 20251130       | (Medium)   | 48. Rotate Image                                     |
 | 20251202       | (Medium)   | 49. Group Anagrams                                   |
 | 20251208       | (Easy)     | 110. Balanced Binary Tree                            |
+| 20251211       | (Medium)   | 39. Combination Sum                                  |
 
