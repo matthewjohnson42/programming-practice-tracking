@@ -56,4 +56,5 @@
 | 20251211       | (Medium)   | 39. Combination Sum                                  |
 | 20251212       | (Easy)     | 111. Minimum Depth of Binary Tree                    |
 | 20251213       | (Medium)   | 50. Pow(x, n)                                        |
+| 20251214       | (Medium)   | 40. Combination Sum II                               |
 
