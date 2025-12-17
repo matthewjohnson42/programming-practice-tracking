@@ -58,4 +58,5 @@
 | 20251213       | (Medium)   | 50. Pow(x, n)                                        |
 | 20251214       | (Medium)   | 40. Combination Sum II                               |
 | 20251215       | (Easy)     | 112. Path Sum                                        |
+| 20251216       | (Easy)     | 118. Pascal's Triangle                               |
 
