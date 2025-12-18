@@ -59,4 +59,5 @@
 | 20251214       | (Medium)   | 40. Combination Sum II                               |
 | 20251215       | (Easy)     | 112. Path Sum                                        |
 | 20251216       | (Easy)     | 118. Pascal's Triangle                               |
+| 20251217       | (Easy)     | 119. Pascal's Triangle II                            |
 
