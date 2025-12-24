@@ -60,4 +60,5 @@
 | 20251215       | (Easy)     | 112. Path Sum                                        |
 | 20251216       | (Easy)     | 118. Pascal's Triangle                               |
 | 20251217       | (Easy)     | 119. Pascal's Triangle II                            |
+| 20251223       | (Easy)     | 125. Valid Palindrome                                |
 
