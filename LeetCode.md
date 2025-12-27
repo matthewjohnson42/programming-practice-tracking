@@ -61,4 +61,5 @@
 | 20251216       | (Easy)     | 118. Pascal's Triangle                               |
 | 20251217       | (Easy)     | 119. Pascal's Triangle II                            |
 | 20251223       | (Easy)     | 125. Valid Palindrome                                |
+| 20251226       | (Medium)   | 53. Maximum Subarray                                 |
 
