@@ -63,4 +63,5 @@
 | 20251223       | (Easy)     | 125. Valid Palindrome                                |
 | 20251226       | (Medium)   | 53. Maximum Subarray                                 |
 | 20251227       | (Medium)   | 54. Spiral Matrix                                    |
+| 20251229       | (Medium)   | 55. Jump Game                                        |
 
