@@ -64,4 +64,5 @@
 | 20251226       | (Medium)   | 53. Maximum Subarray                                 |
 | 20251227       | (Medium)   | 54. Spiral Matrix                                    |
 | 20251229       | (Medium)   | 55. Jump Game                                        |
+| 20251230       | (Medium)   | 56. Merge Intervals                                  |
 
