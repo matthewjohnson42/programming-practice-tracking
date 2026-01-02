@@ -66,4 +66,5 @@
 | 20251229       | (Medium)   | 55. Jump Game                                        |
 | 20251230       | (Medium)   | 56. Merge Intervals                                  |
 | 20251231       | (Easy)     | 121. Best Time to Buy and Sell Stock                 |
+| 20260101       | (Medium)   | 57. Insert Interval                                  |
 
