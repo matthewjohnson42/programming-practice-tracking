@@ -69,4 +69,5 @@
 | 20260101       | (Medium)   | 57. Insert Interval                                  |
 | 20260102       | (Medium)   | 59. Sprial Matrix II                                 |
 | 20260103       | (Easy)     | 136. Single Number                                   |
+| 20260104       | (Easy)     | 141. Linked List Cycle                               |
 
