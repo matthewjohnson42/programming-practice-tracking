@@ -68,4 +68,5 @@
 | 20251231       | (Easy)     | 121. Best Time to Buy and Sell Stock                 |
 | 20260101       | (Medium)   | 57. Insert Interval                                  |
 | 20260102       | (Medium)   | 59. Sprial Matrix II                                 |
+| 20260103       | (Easy)     | 136. Single Number                                   |
 
