@@ -73,4 +73,5 @@
 | 20260106       | (Medium)   | 61. Rotate List                                      |
 | 20260109       | (Easy)     | 144. Binary Tree Preorder Traversal                  |
 | 20260110       | (Easy)     | 145. Binary Tree Postorder Traversal                 |
+| 20260114       | (Medium)   | 62. Unique Paths                                     |
 
