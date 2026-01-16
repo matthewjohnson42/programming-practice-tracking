@@ -4,5 +4,4 @@
 | ---------------|------------|------------------------------------------------------|
 | 20251025       | (Hard)     | 10. Regular Expression Matching                      |
 | 20251109       | (Hard)     | 30. Substring with Concatenation of All Words        |
-| 20260115       | (Medium)   | 63. Unique Paths II                                  |
 
