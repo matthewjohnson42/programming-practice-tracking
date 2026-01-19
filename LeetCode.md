@@ -75,4 +75,5 @@
 | 20260110       | (Easy)     | 145. Binary Tree Postorder Traversal                 |
 | 20260114       | (Medium)   | 62. Unique Paths                                     |
 | 20260115       | (Medium)   | 63. Unique Paths II                                  |
+| 20260118       | (Easy)     | 160. Intersection of Two Linked List                 |
 
