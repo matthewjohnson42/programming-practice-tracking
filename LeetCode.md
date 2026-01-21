@@ -76,5 +76,6 @@
 | 20260114       | (Medium)   | 62. Unique Paths                                     |
 | 20260115       | (Medium)   | 63. Unique Paths II                                  |
 | 20260118       | (Easy)     | 160. Intersection of Two Linked List                 |
-| 20260619       | (Easy)     | 168. Excel Sheet Column Title                        |
+| 20260119       | (Easy)     | 168. Excel Sheet Column Title                        |
+| 20260120       | (Medium)   | 64. Minimum Path Sum                                 |
 
