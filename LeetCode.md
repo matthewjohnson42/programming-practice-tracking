@@ -78,4 +78,5 @@
 | 20260118       | (Easy)     | 160. Intersection of Two Linked List                 |
 | 20260119       | (Easy)     | 168. Excel Sheet Column Title                        |
 | 20260120       | (Medium)   | 64. Minimum Path Sum                                 |
+| 20260123       | (Medium)   | 71. Simplify Path                                    |
 
