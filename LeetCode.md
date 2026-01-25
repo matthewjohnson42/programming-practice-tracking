@@ -79,4 +79,5 @@
 | 20260119       | (Easy)     | 168. Excel Sheet Column Title                        |
 | 20260120       | (Medium)   | 64. Minimum Path Sum                                 |
 | 20260123       | (Medium)   | 71. Simplify Path                                    |
+| 20260124       | (Easy)     | 169. Majority Element                                |
 
