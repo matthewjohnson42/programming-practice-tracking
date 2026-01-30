@@ -83,4 +83,5 @@
 | 20260125       | (Easy)     | 171. Excel Sheet Column Number                       |
 | 20260127       | (Easy)     | 175. Combine Two Tables                              |
 | 20260128       | (Medium)   | 73. Set Matrix Zeros                                 |
+| 20260129       | (Easy)     | 181. Employees Earning More Than Their Managers      |
 
