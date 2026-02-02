@@ -85,4 +85,5 @@
 | 20260128       | (Medium)   | 73. Set Matrix Zeros                                 |
 | 20260129       | (Easy)     | 181. Employees Earning More Than Their Managers      |
 | 20260131       | (Easy)     | 182. Duplicate Emails                                |
+| 20260201       | (Easy)     | 183. Customers Who Never Order                       |
 
