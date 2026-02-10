@@ -90,3 +90,5 @@
 | 20260203       | (Easy)     | 191. Number of One Bits                                                    |
 | 20260205       | (Easy)     | 203. Removed Linked List Elements                                          |
 | 20260208       | (Easy)     | 202. Square Replicating, Constituent Summing, Convergent Number in Base 10 |
+| 20260209       | (Easy)     | 204. Isomorphic Strings                                                    |
+
