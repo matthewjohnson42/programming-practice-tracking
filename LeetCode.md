@@ -92,4 +92,5 @@
 | 20260208       | (Easy)     | 202. Square Replicating, Constituent Summing, Convergent Number in Base 10 |
 | 20260209       | (Easy)     | 204. Isomorphic Strings                                                    |
 | 20260210       | (Medium)   | 72. Levenshtein Edit Distance                                              |
+| 20260211       | (Easy)     | 206. Reverse Linked List                                                   |
 
