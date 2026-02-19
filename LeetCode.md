@@ -99,4 +99,5 @@
 | 20260215       | (Medium)   | 75. Sort Colors                                                            |
 | 20260216       | (Medium)   | 77. Combinations                                                           |
 | 20260217       | (Medium)   | 78. Subsets                                                                |
+| 20260219       | (Medium)   | 79. Word Search                                                            |
 
